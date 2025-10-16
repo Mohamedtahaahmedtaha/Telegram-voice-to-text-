@@ -1,0 +1,9 @@
+
+python-telegram-bot==21.4
+requests==2.*
+pydub==0.25.1
+python-telegram-bot==21.4
+requests
+python-dotenv
+pydub
+openai-whisper
