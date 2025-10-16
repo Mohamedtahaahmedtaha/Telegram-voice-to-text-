@@ -32,7 +32,7 @@ This project is a Telegram bot that converts voice messages into text and automa
 
 Then send a voice message or a text message to your Telegram bot. The message will be transcribed and added automatically to your Trello board.
 
-##Notes
+Notes
 
 If OpenRouter API key is provided, the bot will first try to use the API for transcription.
 
